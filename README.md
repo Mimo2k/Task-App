@@ -1,9 +1,7 @@
 
-# Task List
+# Task App
 
-A clean, modern and material UI Task list app available on playstore which has different functionalities.
-You can set the priority of tasks and search for a specific task in your task list. Swipe left to 
-delete the tasks. Search across your tasks. Sort according to your priority.
+Modern CRUD app using kotlin for storing Task according to priority
 
 
 ## Demo
@@ -71,12 +69,7 @@ delete the tasks. Search across your tasks. Sort according to your priority.
 [Room Documentation](https://developer.android.com/training/data-storage/room)
 
 
-## License
-
-[MIT](https://github.com/anuj-thakur-513/Task-List-App/blob/main/License)
-
-
 ## Authors
 
-- [@anuj-thakur-513](https://www.github.com/anuj-thakur-513)
+- [@Mimo2k](https://www.github.com/Mimo2k)
 
